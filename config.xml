@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "space.saniaowner"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. CCTV Super Password Pro</name>
+    <name>ТЕСТ. CCTV Super Password NO ADS</name>
 
     <description>
         Reset passwords for DVR and NVR
@@ -47,10 +47,10 @@
         <icon src="res/android/icon/7f87fe6dff69a0b0bb01803aa4f64a1e.png" density="xxhdpi" />
         <icon src="res/android/icon/60998b48436dad3c430f2e4239deac66.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/b911f52f7ea7030ed29c3b497a13e273.png" density="port-hdpi"/>
-        <splash src="res/android/screen/277c4de539a9a90a1fba593ecfe4ec38.png" density="port-ldpi"/>
-        <splash src="res/android/screen/6062e2428a42398beabeeaf9c0fac589.png" density="port-mdpi"/>
-        <splash src="res/android/screen/5ffa7f5f1c8d4ebfe10f59f47ceeacf5.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/0abdb2a440a0a20c727eb571ad7cb461.png" density="port-hdpi"/>
+        <splash src="res/android/screen/4f5797cd767a27a6a4819aee61d9f08d.png" density="port-ldpi"/>
+        <splash src="res/android/screen/5321eed3789d578b7964ffa129381343.png" density="port-mdpi"/>
+        <splash src="res/android/screen/7ff7816a7a458195b6b14130cbcdace4.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
