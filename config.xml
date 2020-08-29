@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "space.saniaowner"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
     <name>ТЕСТ. CCTV Super Password NO ADS</name>
 
@@ -40,12 +40,12 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/f1b912543bf52500d4713d860ffe3c85.png" density="ldpi" />
-        <icon src="res/android/icon/1f1d22a2a8f60767bac67ed3f9c4907f.png" density="mdpi" />
-        <icon src="res/android/icon/703aa3e29647e495ccafe7851942f1e6.png" density="hdpi" />
-        <icon src="res/android/icon/4722593e15c1183e08be9b32865fd573.png" density="xhdpi" />
-        <icon src="res/android/icon/7f87fe6dff69a0b0bb01803aa4f64a1e.png" density="xxhdpi" />
-        <icon src="res/android/icon/60998b48436dad3c430f2e4239deac66.png" density="xxxhdpi" />
+        <icon src="res/android/icon/23fc55a7c14322f27cec962c8347fc28.png" density="ldpi" />
+        <icon src="res/android/icon/5ded42b32b44789a1855e525f5d2ac80.png" density="mdpi" />
+        <icon src="res/android/icon/5ff31e03f0e9df44405d48c3bbe174ca.png" density="hdpi" />
+        <icon src="res/android/icon/722ab7c2975f77a1064942f1cc364044.png" density="xhdpi" />
+        <icon src="res/android/icon/754f6807875f6f3fe669fd2b9adeb2a8.png" density="xxhdpi" />
+        <icon src="res/android/icon/6a3d900c289b5ceb6e14b2de7b6fb143.png" density="xxxhdpi" />
 
         <splash src="res/android/screen/0abdb2a440a0a20c727eb571ad7cb461.png" density="port-hdpi"/>
         <splash src="res/android/screen/4f5797cd767a27a6a4819aee61d9f08d.png" density="port-ldpi"/>
